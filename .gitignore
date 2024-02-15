@@ -1,0 +1,12 @@
+**/bin/*
+**/obj/*
+**/Debug/*
+*.bak
+*.dll
+packages
+TestResults
+.vs/
+*/bin
+*/obj
+*/*/bin
+*/*/obj
